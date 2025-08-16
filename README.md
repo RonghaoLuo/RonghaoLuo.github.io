@@ -1,5 +1,3 @@
-# RoghaoLuo.github.io
-
 # 👋 Hi there
 Share your idea, and together we’ll turn it into a fully playable game prototype.
 
