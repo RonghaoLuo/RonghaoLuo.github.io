@@ -28,4 +28,9 @@ This was originally a project the course used to teach about object-oriented pro
 This is an ongoing project from my course that teaches Player Interactions and Character AI. The game has intention to be a combat required puzzle solving game, like Half Life. 
 
 # Testing Images and Videos
+![Alt text](/assets/images/image_14.png)
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/kPa7bsKwL" 
+  frameborder="0" allowfullscreen>
+</iframe>
 
