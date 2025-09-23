@@ -30,7 +30,7 @@ This is an ongoing project from my course that teaches Player Interactions and C
 # Testing Images and Videos 7:44
 ![Alt text](/assets/images/image_14.png)
 <iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/9kYX3wHoMUA?t=113" 
+  src="https://www.youtube.com/embed/9kYX3wHoMUA?start=113" 
   frameborder="0" allowfullscreen>
 </iframe>
 
