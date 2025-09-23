@@ -26,7 +26,8 @@ Space Shooter is a 2D Top-Down Arcade Shooting game made in Unity. Player contro
 
 This project started out as a course assignment, and since then I have added elements like weapon obtaining to make the game fun and interesting. What I enjoy the most from this game is destroying enemies in a crowd, it’s just so satisfying!  
 
-The Game is currently at its first build (build September 10, 2025), [play it on itch.io](https://ronghaoluo.itch.io/space-shooter)
+The Game is currently at its first build (build September 10, 2025), [play it on itch.io](https://ronghaoluo.itch.io/space-shooter)  
+
 Check out the project on [GitHub](https://github.com/RonghaoLuo/Space-Shooter) if you're interested.
 
 ### My Goals
