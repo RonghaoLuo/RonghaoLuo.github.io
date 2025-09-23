@@ -27,10 +27,10 @@ This was originally a project the course used to teach about object-oriented pro
 ## [3D FPS](https://github.com/RonghaoLuo/Unit_3_FPS_Game)
 This is an ongoing project from my course that teaches Player Interactions and Character AI. The game has intention to be a combat required puzzle solving game, like Half Life. 
 
-# Testing Images and Videos
+# Testing Images and Videos 7:44
 ![Alt text](/assets/images/image_14.png)
 <iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/9kYX3wHoMUA?t=113&si=5DKecn9gWe6j3D7y" 
+  src="https://www.youtube.com/embed/9kYX3wHoMUA?t=113" 
   frameborder="0" allowfullscreen>
 </iframe>
 
