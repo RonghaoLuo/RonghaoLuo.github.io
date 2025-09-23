@@ -18,7 +18,7 @@ My name is Ronghao Luo. I am currently doing the [Game Development Bootcamp](htt
 
 # 🛠 Projects in Progress
 
-## [Simple Top-down 2D Shooter in Unity](https://github.com/RonghaoLuo/Space-Shooter)
+## [Space Shooter](https://github.com/RonghaoLuo/Space-Shooter)
 ### Showcasing and Talk-About Video: In Progress
 ### State of Project: Prototype, build 2025.9.10
 ### Summary
@@ -64,11 +64,4 @@ This was originally an assignment about the animation in Unity for my course, bu
 
 ## [3D FPS](https://github.com/RonghaoLuo/Unit_3_FPS_Game)
 This is an ongoing project from my course that teaches Player Interactions and Character AI. The game has intention to be a combat required puzzle solving game, like Half Life. 
-
-# Testing Images and Videos 7:44
-![Alt text](/assets/images/image_14.png)
-<iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/9kYX3wHoMUA?start=113" 
-  frameborder="0" allowfullscreen>
-</iframe>
 
