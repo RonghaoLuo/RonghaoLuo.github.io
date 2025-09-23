@@ -6,6 +6,8 @@ Share your idea, and together we’ll turn it into a fully playable game prototy
 # 🚀 About Me
 My name is Ronghao Luo. I am currently doing the [Game Development Bootcamp](https://www.circuitstream.com/bootcamp/game-development) online program from [Circuit Stream](https://www.circuitstream.com/) Network. I'm studying Computer Engineering at the University of British Columbia. I build playable Unity prototypes—like my procedural platformer—and thrive working with teams to craft engaging games of any genre.
 
+### 🎮 Games I Play Lately
+
 ### My Skills
 - C/C++ Experience: Simple Algorithms and Data Structures		-->	solid memory management and performance
 - Object Oriented Programming 	-->	maintainable code and good design patterns
