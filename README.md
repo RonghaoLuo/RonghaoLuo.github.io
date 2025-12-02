@@ -19,6 +19,9 @@ My name is Ronghao Luo. I am currently doing the [Game Development Bootcamp](htt
 
 
 # 🛠 Projects in Progress
+## [Painting FPS](https://github.com/RonghaoLuo/Painting_FPS)
+A first person shooter that requires player to solve puzzles with colours and interaction with grabbables.
+This is an ongoing project from my course that enforces Player Interactions and Character AI. The game has intention to be a combat required puzzle solving game, like Half Life. 
 
 ## [Space Shooter](https://github.com/RonghaoLuo/Space-Shooter)
 ### Showcasing and Talk-About Video: In Progress
@@ -65,6 +68,5 @@ I enjoyed doing this project, and I will carry on with what I have learned.
 “The Jump Guy” is a 2D platformer made in Unity with procedurally generated platforms. I learned how to do animation in Unity with finite state machine. 
 This was originally an assignment about the animation in Unity for my course, but I expanded it and made the platforms procedurally generated. The goal of the game is to get as much coins as possible without hitting the obstacles. The challenge is that the more time the player spends, the more obstacles get generated on new platforms.
 
-## [3D FPS](https://github.com/RonghaoLuo/Unit_3_FPS_Game)
-This is an ongoing project from my course that teaches Player Interactions and Character AI. The game has intention to be a combat required puzzle solving game, like Half Life. 
+
 
