@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/ronghao-luo-a71248355/), [GitHub](https://github.com/RonghaoLuo), 
+## [LinkedIn](https://www.linkedin.com/in/ronghao-luo-a71248355/), [GitHub](https://github.com/RonghaoLuo), 
 
 # 👋 Hi there
 Share your idea, and together we’ll turn it into a fully playable game prototype.
