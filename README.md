@@ -1,4 +1,4 @@
-## [LinkedIn](https://www.linkedin.com/in/ronghao-luo-a71248355/), [GitHub](https://github.com/RonghaoLuo), [Demos on Itch.io](https://ronghaoluo.itch.io/), Email: ronghaoluo@gmail.com
+## [LinkedIn](https://www.linkedin.com/in/ronghao-luo-a71248355/), [GitHub](https://github.com/RonghaoLuo), [Demos on Itch.io](https://ronghaoluo.itch.io/), Email: ronghaoluo@gmail.com, [My Resume](assets/Ronghao_Luo_Tailored_Resume_2025.pdf)
 
 # 👋 Hi there
 Share your idea, and together we’ll turn it into a fully playable game prototype.
@@ -9,20 +9,18 @@ Share your idea, and together we’ll turn it into a fully playable game prototy
 My name is Ronghao Luo. I am currently doing the [Game Development Bootcamp](https://www.circuitstream.com/bootcamp/game-development) online program from [Circuit Stream](https://www.circuitstream.com/) Network. I'm studying Computer Engineering at the University of British Columbia. I build playable Unity prototypes—like my procedural platformer—and thrive working with teams to craft engaging games of any genre.
 
 ### 🎮 Games I Play Lately
+Gacha / Open-World: Wuthering Waves, Genshin Impact, Duet Night Abyss
+PvP: Counter-Strike 2
 
 ### My Skills
-- C/C++ Experience: Simple Algorithms and Data Structures		-->	solid memory management and performance
-- Object Oriented Programming 	-->	maintainable code and good design patterns
-- Has Been Doing Collaborative Projects with Friends		-->	Continue to learn new functions from Unity
-- Agile Management		-->	I plan my work and task for every frame of time and do frequent tests; I also give feedback to your game design based on how the mechanics will be implemented
-- Game Development with Unity		-->	altogether I can transform your game design into a decent prototype with the mechanics that you intended for.
-
-
+Programming & Engineering: C#, Java, C/C++, OOP, Algorithms & Data Structures, Design Patterns, SOLID, Git, Debugging & Optimization
+Unity: Gameplay Systems, Object Pooling, Coroutines, Character/Rigidbody Movement, Input System, UI/UX, Raycasting, NPC AI (State Machines), Mobile/WebGL Deployment, Networking (Firebase)
+Technical & Collaboration: Vector Math, Quaternions, Finite State Machines, SCRUM/Agile, Rapid Prototyping
 
 
 # 🛠 Projects in Progress
 ## [Painting FPS](https://github.com/RonghaoLuo/Painting_FPS)
-A first person shooter that requires player to solve puzzles with colours and interaction with grabbables.
+A first-person puzzle shooter with color-based mechanics and interactive world systems. The game implements component-based architecture, object pooling, and custom interaction systems.
 This is an ongoing project from my course that enforces Player Interactions and Character AI. The game has intention to be a combat required puzzle solving game, like Half Life. 
 
 ## [Space Shooter](https://github.com/RonghaoLuo/Space-Shooter)
@@ -62,12 +60,12 @@ As for lessons, I learned about Unity and C# memory management, and lifecycle of
 
 I enjoyed doing this project, and I will carry on with what I have learned.
 
-
-
+## [Multiplayer Tank Game](https://github.com/RonghaoLuo/Multiplayer-Tank-Game)
+An online PvP game in development using Unity Netcode and modular system architecture. The game implements movement, combat, and real-time synchronization for multiplayer matches.
 
 
 ## [The Jump Guy (Procedural Platformer)](https://github.com/RonghaoLuo/Procedural-Platformer)
-“The Jump Guy” is a 2D platformer made in Unity with procedurally generated platforms. I learned how to do animation in Unity with finite state machine. 
+“The Jump Guy” is a 2D platformer made in Unity with procedurally generated platforms. I learned how to do animation in Unity with finite state machine. The game also supports controls for touch screen.
 This was originally an assignment about the animation in Unity for my course, but I expanded it and made the platforms procedurally generated. The goal of the game is to get as much coins as possible without hitting the obstacles. The challenge is that the more time the player spends, the more obstacles get generated on new platforms.
 
 
