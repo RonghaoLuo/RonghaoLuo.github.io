@@ -17,7 +17,9 @@ PvP: Counter-Strike 2
 
 ### My Skills
 Programming & Engineering: C#, Java, C/C++, OOP, Algorithms & Data Structures, Design Patterns, SOLID, Git, Debugging & Optimization
+
 Unity: Gameplay Systems, Object Pooling, Coroutines, Character/Rigidbody Movement, Input System, UI/UX, Raycasting, NPC AI (State Machines), Mobile/WebGL Deployment, Networking (Firebase)
+
 Technical & Collaboration: Vector Math, Quaternions, Finite State Machines, SCRUM/Agile, Rapid Prototyping
 
 
