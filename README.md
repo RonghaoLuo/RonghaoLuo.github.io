@@ -1,3 +1,5 @@
+# Ronghao Luo
+
 ## [LinkedIn](https://www.linkedin.com/in/ronghao-luo-a71248355/), [GitHub](https://github.com/RonghaoLuo), [Demos on Itch.io](https://ronghaoluo.itch.io/), Email: ronghaoluo@gmail.com, [My Resume](assets/Ronghao_Luo_Tailored_Resume_2025.pdf)
 
 # 👋 Hi there
@@ -10,6 +12,7 @@ My name is Ronghao Luo. I am currently doing the [Game Development Bootcamp](htt
 
 ### 🎮 Games I Play Lately
 Gacha / Open-World: Wuthering Waves, Genshin Impact, Duet Night Abyss
+
 PvP: Counter-Strike 2
 
 ### My Skills
@@ -21,6 +24,7 @@ Technical & Collaboration: Vector Math, Quaternions, Finite State Machines, SCRU
 # 🛠 Projects in Progress
 ## [Painting FPS](https://github.com/RonghaoLuo/Painting_FPS)
 A first-person puzzle shooter with color-based mechanics and interactive world systems. The game implements component-based architecture, object pooling, and custom interaction systems.
+
 This is an ongoing project from my course that enforces Player Interactions and Character AI. The game has intention to be a combat required puzzle solving game, like Half Life. 
 
 ## [Space Shooter](https://github.com/RonghaoLuo/Space-Shooter)
