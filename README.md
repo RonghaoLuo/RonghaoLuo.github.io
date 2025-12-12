@@ -24,12 +24,12 @@ Technical & Collaboration: Vector Math, Quaternions, Finite State Machines, SCRU
 
 
 # 🛠 Projects in Progress
-## [Painting FPS](https://github.com/RonghaoLuo/Painting_FPS)
+## Paintzle ([GitHub](https://github.com/RonghaoLuo/Paintzle) • [Play Demo](https://ronghaoluo.itch.io/paintzle))
 A first-person puzzle shooter with color-based mechanics and interactive world systems. The game implements component-based architecture, object pooling, and custom interaction systems.
 
 This is an ongoing project from my course that enforces Player Interactions and Character AI. The game has intention to be a combat required puzzle solving game, like Half Life. 
 
-## [Space Shooter](https://github.com/RonghaoLuo/Space-Shooter)
+## Space Shooter ([GitHub](https://github.com/RonghaoLuo/Space-Shooter) • [Play Demo](https://ronghaoluo.itch.io/space-shooter))
 ### Showcasing and Talk-About Video: In Progress
 ### State of Project: Prototype, build 2025.9.10
 ### Summary
@@ -66,11 +66,11 @@ As for lessons, I learned about Unity and C# memory management, and lifecycle of
 
 I enjoyed doing this project, and I will carry on with what I have learned.
 
-## [Multiplayer Tank Game](https://github.com/RonghaoLuo/Multiplayer-Tank-Game)
+## Multiplayer Tank Game ([GitHub](https://github.com/RonghaoLuo/Multiplayer-Tank-Game))
 An online PvP game in development using Unity Netcode and modular system architecture. The game implements movement, combat, and real-time synchronization for multiplayer matches.
 
 
-## [The Jump Guy (Procedural Platformer)](https://github.com/RonghaoLuo/Procedural-Platformer)
+## The Jump Guy (Procedural Platformer) ([GitHub](https://github.com/RonghaoLuo/Procedural-Platformer))
 “The Jump Guy” is a 2D platformer made in Unity with procedurally generated platforms. I learned how to do animation in Unity with finite state machine. The game also supports controls for touch screen.
 This was originally an assignment about the animation in Unity for my course, but I expanded it and made the platforms procedurally generated. The goal of the game is to get as much coins as possible without hitting the obstacles. The challenge is that the more time the player spends, the more obstacles get generated on new platforms.
 
