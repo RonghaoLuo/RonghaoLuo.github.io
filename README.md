@@ -1,33 +1,36 @@
-# Ronghao Luo
+### [LinkedIn](https://www.linkedin.com/in/ronghao-luo-a71248355/), [GitHub](https://github.com/RonghaoLuo), [Demos on Itch.io](https://ronghaoluo.itch.io/), Email: ronghaoluo@gmail.com, [My Resume](assets/Ronghao_Luo_Tailored_Resume_2025.pdf)
 
-## [LinkedIn](https://www.linkedin.com/in/ronghao-luo-a71248355/), [GitHub](https://github.com/RonghaoLuo), [Demos on Itch.io](https://ronghaoluo.itch.io/), Email: ronghaoluo@gmail.com, [My Resume](assets/Ronghao_Luo_Tailored_Resume_2025.pdf)
-
-# 👋 Hi there
-Share your idea, and together we’ll turn it into a fully playable game prototype.
+# Ronghao Luo (Open to Work)
+### Share your idea, and together we’ll turn it into a fully playable game prototype.
 
 <img src = "assets/images/portrait.png">
 
 # 🚀 About Me
 My name is Ronghao Luo. I am currently doing the [Game Development Bootcamp](https://www.circuitstream.com/bootcamp/game-development) online program from [Circuit Stream](https://www.circuitstream.com/) Network. I'm studying Computer Engineering at the University of British Columbia. I build playable Unity prototypes—like my procedural platformer—and thrive working with teams to craft engaging games of any genre.
 
-### 🎮 Games I Play Lately
-Gacha / Open-World: Wuthering Waves, Genshin Impact, Duet Night Abyss
-
-PvP: Counter-Strike 2
-
-### My Skills
+### 🧰 My Skills
 Programming & Engineering: C#, Java, C/C++, OOP, Algorithms & Data Structures, Design Patterns, SOLID, Git, Debugging & Optimization
 
 Unity: Gameplay Systems, Object Pooling, Coroutines, Character/Rigidbody Movement, Input System, UI/UX, Raycasting, NPC AI (State Machines), Mobile/WebGL Deployment, Networking (Firebase)
 
 Technical & Collaboration: Vector Math, Quaternions, Finite State Machines, SCRUM/Agile, Rapid Prototyping
 
+### 🎮 Games I Play Lately
+Gacha / Open-World: Wuthering Waves, Genshin Impact
+
+
 
 # 🛠 Projects in Progress
-## Paintzle ([GitHub](https://github.com/RonghaoLuo/Paintzle) • [Play Demo](https://ronghaoluo.itch.io/paintzle))
-A first-person puzzle shooter with color-based mechanics and interactive world systems. The game implements component-based architecture, object pooling, and custom interaction systems.
+## Paintzle ([Play Demo](https://ronghaoluo.itch.io/paintzle) • [GitHub](https://github.com/RonghaoLuo/Paintzle) • [Devlog](https://itch.io/dashboard/game/4074583/devlog))
 
-This is an ongoing project from my course that enforces Player Interactions and Character AI. The game has intention to be a combat required puzzle solving game, like Half Life. 
+### Showcase Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_hhYzD9ohbM?start=0" frameborder="0" allowfullscreen> </iframe>
+
+
+Paintzle is a puzzle lite, environmental coverage, first person shooter with dessert-themed levels. The player controls a paint gun to paint the environment. Use colours and interact with the environment to solve puzzles. Upon completion of all puzzles, the player enters a challenge room. The objective is to paint the entire challenge room. Jellies that spawn in the drop power ups upon defeat. Power up speeds up the painting process.
+
+Paintzle was the capstone project for my game dev bootcamp from [Circuit Stream](https://www.circuitstream.com/). Watch my [pitch presentation here](https://www.youtube.com/watch?v=FOqonV599yQ)
+
 
 ## Space Shooter ([GitHub](https://github.com/RonghaoLuo/Space-Shooter) • [Play Demo](https://ronghaoluo.itch.io/space-shooter))
 ### Showcasing and Talk-About Video: In Progress
