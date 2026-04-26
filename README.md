@@ -1,12 +1,16 @@
 ### [LinkedIn](https://www.linkedin.com/in/ronghao-luo-a71248355/), [GitHub](https://github.com/RonghaoLuo), [Demos on Itch.io](https://ronghaoluo.itch.io/), Email: ronghaoluo@gmail.com, [My Resume](assets/Ronghao_Luo_Tailored_Resume_2025.pdf)
 
 # Ronghao Luo (Open to Work)
-### Share your idea, and together we’ll turn it into a fully playable game prototype.
+### Share your idea, and together we’ll turn it into a fully playable game.
 
 <img src = "assets/images/portrait.png">
 
-# 🚀 About Me
-My name is Ronghao Luo. I am currently doing the [Game Development Bootcamp](https://www.circuitstream.com/bootcamp/game-development) online program from [Circuit Stream](https://www.circuitstream.com/) Network. I'm studying Computer Engineering at the University of British Columbia. I build playable Unity prototypes—like my procedural platformer—and thrive working with teams to craft engaging games of any genre.
+# 👋 About Me
+Hi there, I'm a game developer. I build systems for stylized games. I bridge the gap between robust code architecture and creative vision, using Unity and custom engine logic to ensure every mechanic feels as cohesive as it looks.
+
+I studied Computer Engineering, but I burned out in my second year, so I decided to try game dev. I took the [Game Development Bootcamp](https://www.circuitstream.com/bootcamp/game-development) online program from [Circuit Stream](https://www.circuitstream.com/) Network from May to December in 2025. Since then, I have taken video game as my motivation to learn computer graphics and game engines.
+
+Watch my [pitch presentation](https://www.youtube.com/watch?v=FOqonV599yQ) from the bootcamp if you're interested!
 
 ### 🧰 My Skills
 Programming & Engineering: C#, Java, C/C++, OOP, Algorithms & Data Structures, Design Patterns, SOLID, Git, Debugging & Optimization
@@ -20,14 +24,17 @@ Gacha / Open-World: Wuthering Waves, Genshin Impact
 
 
 
-# 🛠 Projects in Progress
+# 🛠 Projects
+## Anime Girl Ski Kirby Air Ride (In Design)
+Anime Style, Cel shading, PvP, Multiplayer via Unity NetCode
+
 ## Paintzle ([Play Demo](https://ronghaoluo.itch.io/paintzle) • [GitHub](https://github.com/RonghaoLuo/Paintzle) • [Devlog](https://itch.io/dashboard/game/4074583/devlog))
 
 ### Showcase Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_hhYzD9ohbM?start=0" frameborder="0" allowfullscreen> </iframe>
 
 
-Paintzle is a puzzle lite, environmental coverage, first person shooter with dessert-themed levels. The player controls a paint gun to paint the environment. Use colours and interact with the environment to solve puzzles. Upon completion of all puzzles, the player enters a challenge room. The objective is to paint the entire challenge room. Jellies that spawn in the drop power ups upon defeat. Power up speeds up the painting process.
+Paintzle is a puzzle lite, environmental coverage, first person shooter with dessert-themed levels. The player controls a paintgun to paint the environment. Use colours to solve puzzles. Upon completion of all puzzles, the player enters a challenge room. The objective is to paint the entire challenge room. In the challenge room, jellies drop power ups upon defeat with the paintgun. Power up speeds up the painting process.
 
 Paintzle was the capstone project for my game dev bootcamp from [Circuit Stream](https://www.circuitstream.com/). Watch my [pitch presentation here](https://www.youtube.com/watch?v=FOqonV599yQ)
 
@@ -68,14 +75,5 @@ As a result, I made a playable arcade 2D shooter prototype with satisfying enemy
 As for lessons, I learned about Unity and C# memory management, and lifecycle of the Unity game objects. I’m working my way to become an engine programmer. As for improvement, abiding to task deadlines are important for Scrum, and I am working my way there. Recording down images and clips of the game at each stage is also important for any writeups for the project. For implementation of the game, it is also helpful for a beginner like me to look up some common designs first. It is important to learn professional and industry standard designs. Lastly, although generative AI is helpful for most of the time in my opinion, learning how to use forums is also important for my knowledge.  
 
 I enjoyed doing this project, and I will carry on with what I have learned.
-
-## Multiplayer Tank Game ([GitHub](https://github.com/RonghaoLuo/Multiplayer-Tank-Game))
-An online PvP game in development using Unity Netcode and modular system architecture. The game implements movement, combat, and real-time synchronization for multiplayer matches.
-
-
-## The Jump Guy (Procedural Platformer) ([GitHub](https://github.com/RonghaoLuo/Procedural-Platformer))
-“The Jump Guy” is a 2D platformer made in Unity with procedurally generated platforms. I learned how to do animation in Unity with finite state machine. The game also supports controls for touch screen.
-This was originally an assignment about the animation in Unity for my course, but I expanded it and made the platforms procedurally generated. The goal of the game is to get as much coins as possible without hitting the obstacles. The challenge is that the more time the player spends, the more obstacles get generated on new platforms.
-
 
 
