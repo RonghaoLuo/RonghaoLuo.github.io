@@ -13,20 +13,18 @@ I studied Computer Engineering, but I burned out in my second year, so I decided
 Watch my [pitch presentation](https://www.youtube.com/watch?v=FOqonV599yQ) from the bootcamp if you're interested!
 
 ### 🧰 My Skills
-Programming & Engineering: C#, Java, C/C++, OOP, Algorithms & Data Structures, Design Patterns, SOLID, Git, Debugging & Optimization
+Programming & Engineering: C#, Java, C/C++, Design Patterns, SOLID, Version Control
 
-Unity: Gameplay Systems, Object Pooling, Coroutines, Character/Rigidbody Movement, Input System, UI/UX, Raycasting, NPC AI (State Machines), Mobile/WebGL Deployment, Networking (Firebase)
+Unity: Object Pooling, Coroutines, NPC AI (State Machines), Mobile/WebGL Deployment, Player Data and Storage (Firebase)
 
-Technical & Collaboration: Vector Math, Quaternions, Finite State Machines, SCRUM/Agile, Rapid Prototyping
+Technical & Collaboration: Vector Math, SCRUM/Agile
 
 ### 🎮 Games I Play Lately
-Gacha / Open-World: Wuthering Waves, Genshin Impact
+Gacha / Open-World / Action: Wuthering Waves, Genshin Impact, Neverness to Everness, Zenless Zone Zero
 
 
 
 # 🛠 Projects
-## Anime Girl Ski Kirby Air Ride (In Design)
-Anime Style, Cel shading, PvP, Multiplayer via Unity NetCode
 
 ## Paintzle ([Play Demo](https://ronghaoluo.itch.io/paintzle) • [GitHub](https://github.com/RonghaoLuo/Paintzle) • [Devlog](https://itch.io/dashboard/game/4074583/devlog))
 
@@ -36,11 +34,13 @@ Anime Style, Cel shading, PvP, Multiplayer via Unity NetCode
 
 Paintzle is a puzzle lite, environmental coverage, first person shooter with dessert-themed levels. The player controls a paintgun to paint the environment. Use colours to solve puzzles. Upon completion of all puzzles, the player enters a challenge room. The objective is to paint the entire challenge room. In the challenge room, jellies drop power ups upon defeat with the paintgun. Power up speeds up the painting process.
 
-Paintzle was the capstone project for my game dev bootcamp from [Circuit Stream](https://www.circuitstream.com/). Watch my [pitch presentation here](https://www.youtube.com/watch?v=FOqonV599yQ)
+Paintzle was the capstone project for my game dev bootcamp from [Circuit Stream](https://www.circuitstream.com/). Watch my pitch presentation down below.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FOqonV599yQ" frameborder="0" allowfullscreen> </iframe>
 
 
 ## Space Shooter ([GitHub](https://github.com/RonghaoLuo/Space-Shooter) • [Play Demo](https://ronghaoluo.itch.io/space-shooter))
-### Showcasing and Talk-About Video: In Progress
+<img src = "assets/images/space_shooter.png" width="560" height="315">
+
 ### State of Project: Prototype, build 2025.9.10
 ### Summary
 Space Shooter is a 2D Top-Down Arcade Shooting game made in Unity. Player controls a spaceship in a region enclosed by asteroids. The goal is to kill enemies, get power ups and weapons, and kill more enemies! The game offers crispy responses from killing enemies.  
