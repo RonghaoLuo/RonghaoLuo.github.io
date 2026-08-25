@@ -35,7 +35,7 @@ Gacha / Open-World / Action: Wuthering Waves, Genshin Impact, Neverness to Evern
 Paintzle is a puzzle lite, environmental coverage, first person shooter with dessert-themed levels. The player controls a paintgun to paint the environment. Use colours to solve puzzles. Upon completion of all puzzles, the player enters a challenge room. The objective is to paint the entire challenge room. In the challenge room, jellies drop power ups upon defeat with the paintgun. Power up speeds up the painting process.
 
 Paintzle was the capstone project for my game dev bootcamp from [Circuit Stream](https://www.circuitstream.com/). Watch my pitch presentation down below.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FOqonV599yQ" frameborder="0" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FOqonV599yQ?start=808" frameborder="0" allowfullscreen> </iframe>
 
 
 ## Space Shooter ([GitHub](https://github.com/RonghaoLuo/Space-Shooter) • [Play Demo](https://ronghaoluo.itch.io/space-shooter))
