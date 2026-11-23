@@ -1,79 +1,10 @@
-### [LinkedIn](https://www.linkedin.com/in/ronghao-luo-a71248355/), [GitHub](https://github.com/RonghaoLuo), [Demos on Itch.io](https://ronghaoluo.itch.io/), Email: ronghaoluo@gmail.com, [My Resume](assets/Ronghao_Luo_Tailored_Resume_2025.pdf)
+# Ronghao Luo’s portfolio
 
-# Ronghao Luo (Open to Work)
-### Share your idea, and together we’ll turn it into a fully playable game.
+A bilingual game development portfolio for GitHub Pages. English is available at the site root and Simplified Chinese at `/zh/`.
 
-<img src = "assets/images/portrait.png">
+- `index.html` contains the English page.
+- `zh/index.html` contains the Simplified Chinese page.
+- `assets/css/site.css` contains shared styles.
+- `assets/` contains the résumé and project images.
 
-# 👋 About Me
-Hi there, I'm a game developer. I build systems for stylized games. I bridge the gap between robust code architecture and creative vision, using Unity and custom engine logic to ensure every mechanic feels as cohesive as it looks.
-
-I studied Computer Engineering, but I burned out in my second year, so I decided to try game dev. I took the [Game Development Bootcamp](https://www.circuitstream.com/bootcamp/game-development) online program from [Circuit Stream](https://www.circuitstream.com/) Network from May to December in 2025. Since then, I have taken video game as my motivation to learn computer graphics and game engines.
-
-Watch my [pitch presentation](https://www.youtube.com/watch?v=FOqonV599yQ) from the bootcamp if you're interested!
-
-### 🧰 My Skills
-Programming & Engineering: C#, Java, C/C++, Design Patterns, SOLID, Version Control
-
-Unity: Object Pooling, Coroutines, NPC AI (State Machines), Mobile/WebGL Deployment, Player Data and Storage (Firebase)
-
-Technical & Collaboration: Vector Math, SCRUM/Agile
-
-### 🎮 Games I Play Lately
-Gacha / Open-World / Action: Wuthering Waves, Genshin Impact, Neverness to Everness, Zenless Zone Zero
-
-
-
-# 🛠 Projects
-
-## Paintzle ([Play Demo](https://ronghaoluo.itch.io/paintzle) • [GitHub](https://github.com/RonghaoLuo/Paintzle) • [Devlog](https://itch.io/dashboard/game/4074583/devlog))
-
-### Showcase Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_hhYzD9ohbM?start=0" frameborder="0" allowfullscreen> </iframe>
-
-
-Paintzle is a puzzle lite, environmental coverage, first person shooter with dessert-themed levels. The player controls a paintgun to paint the environment. Use colours to solve puzzles. Upon completion of all puzzles, the player enters a challenge room. The objective is to paint the entire challenge room. In the challenge room, jellies drop power ups upon defeat with the paintgun. Power up speeds up the painting process.
-
-Paintzle was the capstone project for my game dev bootcamp from [Circuit Stream](https://www.circuitstream.com/). Watch my pitch presentation down below.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FOqonV599yQ?start=808" frameborder="0" allowfullscreen> </iframe>
-
-
-## Space Shooter ([GitHub](https://github.com/RonghaoLuo/Space-Shooter) • [Play Demo](https://ronghaoluo.itch.io/space-shooter))
-<img src = "assets/images/space_shooter.png" width="560" height="315">
-
-### State of Project: Prototype, build 2025.9.10
-### Summary
-Space Shooter is a 2D Top-Down Arcade Shooting game made in Unity. Player controls a spaceship in a region enclosed by asteroids. The goal is to kill enemies, get power ups and weapons, and kill more enemies! The game offers crispy responses from killing enemies.  
-
-This project started out as a course assignment, and since then I have added elements like weapon obtaining to make the game fun and interesting. What I enjoy the most from this game is destroying enemies in a crowd, it’s just so satisfying!  
-
-The Game is currently at its first build (build September 10, 2025), [play it on itch.io](https://ronghaoluo.itch.io/space-shooter)  
-
-Check out the project on [GitHub](https://github.com/RonghaoLuo/Space-Shooter) if you're interested.
-
-### My Goals
-The anticipated outcome of this project was to learn about OOP (Object Oriented Programming). But ever since I had added sound and visual effects to the enemy destruction, I wanted to make a prototype of a satisfying, arcade 2D shooting game.
-
-### What I Did
-For planning and task management, I used Microsoft Loop and the Kanban feature. I also used Git and GitHub to keep track of project version history. Let's briefly go over what I have done for the game.
-After I have done the Character Classes and Player basic functions from my course, I started expanding and refactoring my code, particularly the classes for Enemies.  
-
-I used diagrams to help me create new enemies. Fun fact about the explosive enemies, their explosions can result in a chain reaction.  
-
-I had to ask ChatGPT for some help to make this work. Long story short, I had to make safety checks to avoid chain reaction from going nonstop.  
-
-Moreover, I implemented Power Ups and UIs. Because I made the player prefab destroy and instantiate when the game ends and begins, I had to learn a little bit about the lifecycle methods of game objects in Unity. I made starting and ending screens, so the game is now playable.  
-
-Next, I wanted the combat to be more appealing, so I added sound and visual effects for attack and destruction.
-To not bore the player, the higher the score the player has, the more enemies the game spawns. Furthermore, with the new drops and weapons, the player has more options to smash the enemies!  
-
-To wrap up for the first build, I added an all-weapon mode, so I can test with all the weapons. The player can also choose to play this game mode for satisfaction. To illustrate the playable range of the map, I added asteroids to indicate boundaries. Finally, to spice up the prototype gameplay, I added some music.
-
-### Outcome
-As a result, I made a playable arcade 2D shooter prototype with satisfying enemy destruction in Unity. The project has organized and organized prefabs and scripts for maintainability and expandability.  
-
-As for lessons, I learned about Unity and C# memory management, and lifecycle of the Unity game objects. I’m working my way to become an engine programmer. As for improvement, abiding to task deadlines are important for Scrum, and I am working my way there. Recording down images and clips of the game at each stage is also important for any writeups for the project. For implementation of the game, it is also helpful for a beginner like me to look up some common designs first. It is important to learn professional and industry standard designs. Lastly, although generative AI is helpful for most of the time in my opinion, learning how to use forums is also important for my knowledge.  
-
-I enjoyed doing this project, and I will carry on with what I have learned.
-
-
+Update both pages when project details or links change. The site uses plain HTML and CSS and can be previewed with any local static HTTP server.
